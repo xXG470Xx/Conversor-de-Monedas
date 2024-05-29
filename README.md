@@ -8,8 +8,5 @@ La aqui que se uso para este proyecto es la siguiente: https://www.exchangerate-
 
 ![image](https://github.com/xXG470Xx/Conversor-de-Monedas/assets/156970248/68bc2629-ce78-4941-abcb-5a26b5625ea9)
 
-<dependency>
-    <groupId>com.dropbox.core</groupId>
-    <artifactId>dropbox-core-sdk</artifactId>
-    <version>7.0.0</version>
-</dependency>
+Vamos a mostrar el siguiente menu 
+npm init docusaurus@latest
